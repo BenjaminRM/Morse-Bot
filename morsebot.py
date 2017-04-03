@@ -13,7 +13,7 @@ DECODE = "decode"
 TELEGRAM = 'C4L8VHVL3'
 
 # instantiate Slack & Twilio clients
-slack_client = SlackClient('xoxb-156386014643-xF3CiORsVzhnkgoNxCrjf2WP')
+slack_client = SlackClient('')
 
 TABLE = {'A': '.-',     'B': '-...',   'C': '-.-.',
         'D': '-..',    'E': '.',      'F': '..-.',
